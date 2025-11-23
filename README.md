@@ -155,3 +155,7 @@ flowchart TD
 - `README.md` : 프로젝트 설명
 
 ---
+
+### 시연 영상
+
+https://youtu.be/SHtWjxzUSt4
