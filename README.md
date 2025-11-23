@@ -1,5 +1,12 @@
 # bigdata-lesson
 
+## 프로젝트 정보 ##
+```
+Developer | 정진오, 정다은
+Language  | python
+Library   | streamlit, sklearn, pandas, plotly, numpy
+```
+
 ## 소개
 
 게임 '리그오브레전드'의 플레이 가능한 오브젝트인 '챔피언'들에 대하여 데이터 분석을 실행한 streamlit 프로젝트입니다.
