@@ -165,4 +165,4 @@ flowchart TD
 
 ### 시연 영상
 
-https://youtu.be/SHtWjxzUSt4
+[![Video Label](http://img.youtube.com/vi/SHtWjxzUSt4/0.jpg)](https://youtu.be/SHtWjxzUSt4?t=0s)
